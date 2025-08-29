@@ -1,0 +1,5 @@
+numpy
+requests
+gwosc
+flask
+torch  # optional, for dummy ANN workload
