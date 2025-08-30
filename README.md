@@ -1,11 +1,16 @@
-# |!    CitizenGW-Compute   !|
----------------------------------
+#CitizenGW-Compute 🚀🌌
+| From DESKTOP to the distant COSMOS |
 
-**Citizen-driven timing anomaly experiment for gravitational wave events.**
+Turning Computational Operations into a Gravitational Wave Sensor
 
-This project proposes a **distributed citizen science platform** where normal 
-computers log deterministic workloads during GW alerts (from LIGO/Virgo APIs) 
-and anomalies in throughput are aggregated to explore possible correlations.
+CitizenGW-Compute is an open science initiative that reimagines your computer’s raw processing power as a virtual gravitational wave antenna. Instead of trying to detect tiny clock shifts directly (impossible at ~$10^{-21}$ strains), we treat the total number of operations per second as an amplification channel. By scaling tiny spacetime ripples into measurable deviations in throughput, everyday CPUs, GPUs, and even supercomputers can join in the hunt for gravitational waves.
+
+##The vision:
+
+Citizen PCs contribute idle compute cycles as sensitive probes.
+HPC clusters & cloud systems (Azure, EAGLE, etc.) act as ultra-stable mega-detectors, triggered when LIGO/Virgo spot an event.
+Collective correlation across thousands of devices boosts confidence and explores frequency bands beyond current interferometers.
+In short: we turn computation itself into a scientific instrument, opening gravitational wave science to everyone. 🌍💻✨
 
 It is developed by myself only, so there may be several issues, 
 that is why I pledge to all of the curious minds out there to come 
@@ -16,19 +21,19 @@ The project needs YOUR contribution & support ....   **you can be more valuable 
 
 ----------
 
-## Features:
+##Features:
 
-- Deterministic Dummy ANN-like benchmark (NumPy/PyTorch).
-- Event-triggered "logging mode" on GW alerts.
-- Local CSV/JSON logging of performance metrics.
-- Optional upload to a central Flask-based server.
-- Designed for **Windows/Linux/MacOS** (Python 3.8+).
+-Deterministic Dummy ANN-like benchmark (NumPy/PyTorch).
+-Event-triggered "logging mode" on GW alerts.
+-Local CSV/JSON logging of performance metrics.
+-Optional upload to a central Flask-based server.
+-Designed for **Windows/Linux/MacOS** (Python 3.8+).
 
 -------------
 
-## Installation
+##Installation
 
-1. Clone the repository:
+1.Clone the repository:
    ```bash
    git clone https://github.com/SaikatMohanta/CitizenGW-Compute.git
    cd CitizenGW-Compute
@@ -36,7 +41,7 @@ The project needs YOUR contribution & support ....   **you can be more valuable 
   
 -----------
 
-2. Install dependencies:
+2.Install dependencies:
 
 pip install -r requirements.txt
 
@@ -45,6 +50,7 @@ pip install -r requirements.txt
 
 
 ##Usage
+
 ###Client
 
 Run the client, listening for GW alerts and switching to logging mode:
