@@ -12,7 +12,8 @@ that is why I pledge to all of the curious minds out there to come
 and contribute to this novel idea, and push this small program further.
 
 I am open to any kind of contribution, suggestion, modification.
-this project need YOU ....   **you are more valuable than you think**
+The project needs YOUR contribution & support ....   **you can be more valuable than you realise**
+
 ----------
 
 ## Features:
