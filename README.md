@@ -16,7 +16,8 @@ It is developed by myself only, so there may be several issues,
 that is why I pledge to all of the curious minds out there to come 
 and contribute to this novel idea, and push this small program further.
 
-I am open to any kind of contribution, suggestion, modification.
+I am open to any kind of contribution, suggestion, modification. Also there is two PDFs available in the 'Docs' folder
+of this Repo, please check it out, if you want to know the theoratical concept standing behind.
 The project needs YOUR contribution & support ....   **you can be more valuable than you realise**
 
 ----------
